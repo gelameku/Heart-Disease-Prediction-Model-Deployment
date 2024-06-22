@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-Model-Deployment
+Heart disease is a leading cause of mortality worldwide, and early detection plays a crucial rolein preventing adverse outcomes. Logistic regression is a widely used supervised learningalgorithm for binary classifi cation tasks that provides probabilistic predictions and interpretableresults. It is a promising tool for heart disease prediction.This project aims to develop andevaluate a logistic regression model to predict the likelihood of heart disease based on variousrisk factors.
